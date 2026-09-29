@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["05_Layout-Display & Flexbox\items.html"],
+  content: ["C:/Users/Lenovo/OneDrive/Ngoding/Tailwind/05_Layout-Display & Flexbox/gap.html"],
   theme: {
     extend: {},
   },
